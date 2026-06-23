@@ -16,9 +16,10 @@ I build practical AI automation tools for business operations: Google Workspace 
 |---|---|---|
 | [gws-mcp-server](https://github.com/uchimura-bookmarkstudio/gws-mcp-server) | MCP server that lets AI assistants operate Google Sheets, Docs, Slides, and Drive | Node.js, MCP SDK, Google APIs |
 | [portfolio](https://github.com/uchimura-bookmarkstudio/portfolio) | Portfolio site for AI automation and business systems work | HTML, CSS, GitHub Pages |
-| senpai-app | AI language-learning and career-matching MVP for Southeast Asian learners | Next.js, TypeScript, Anthropic API, Supabase |
-| google-workspace-automation-recipes | Sanitized automation examples for reports, docs, and spreadsheet operations | Node.js, Google APIs |
-| n8n-workflow-examples | Public-safe workflow patterns for lead routing, reporting, and notifications | n8n, Webhooks, APIs |
+| [senpai-app](https://github.com/uchimura-bookmarkstudio/senpai-app) | AI language-learning and career-matching MVP for Southeast Asian learners | Next.js, TypeScript, Anthropic API, Supabase |
+| [google-workspace-automation-recipes](https://github.com/uchimura-bookmarkstudio/google-workspace-automation-recipes) | Sanitized automation examples for reports, docs, and spreadsheet operations | Node.js, Google APIs |
+| [n8n-workflow-examples](https://github.com/uchimura-bookmarkstudio/n8n-workflow-examples) | Public-safe workflow patterns for lead routing, reporting, and notifications | n8n, Webhooks, APIs |
+| [ai-agent-org-template](https://github.com/uchimura-bookmarkstudio/ai-agent-org-template) | Public template for role, skill, and tool based AI operations design | AI agents, operations design |
 
 ## How I work
 
@@ -31,4 +32,3 @@ For portfolio and work samples, I separate public implementation patterns from p
 - Strengthen public repositories as implementation proof, not just code storage
 - Extract reusable templates from past automation work
 - Keep private client files, contracts, credentials, and personal career materials out of public GitHub
-
